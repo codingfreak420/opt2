@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html lang='en'>
+	<head>
+		<title>Home - Old Pylon Trucking</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="styles.css" />
+ </head>
+     <body class='homepage'>
+       <header id="header">
+         <h1><img class='logo' src='' alt='company-logo' /></h1>
+
+         <nav id="nav">
+					<ul>
+						<li class="current"><a href="index.html">Home</a></li>
+                                                <li><a href="about-us.html">About Us</a></li>
+                                                <li><a href="testimonials.html">Testimonials</a></li>
+						<li><a href="hiring-drivers.html">Hiring Drivers</a></li>
+						<li><a href="gallery.html">Gallery</a></li>
+						<li><a href="contact-us.html">Contact Us</a></li>
+						<li><a href="request-a-quote.html">Request a Quote</a></li>
+					</ul>
+				</nav>
+
+        <h2><img class='logo' src='' alt='company-truck' />
+     </body>
+
+
+</html>    
