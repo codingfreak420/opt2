@@ -51,14 +51,14 @@ nav > ul {
 }
 
 nav > ul > li {
-  color: #dfdfe2;
+  color: #35221E;
   margin: 0 0.2rem;
   padding: 0.2rem;
   display: block;
 }
 
 nav > ul > li:hover {
-  background-color: #dfdfe2;
+  background-color: #35221E;
   color: #1b1b32;
   cursor: pointer;
 }
