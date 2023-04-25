@@ -35,8 +35,8 @@ h1 {
 }
 
 nav {
-  width: 50%;
-  max-width: 300px;
+  width: 700%;
+  max-width: 700px;
   height: 200px;
 }
 
@@ -45,7 +45,7 @@ nav > ul {
   justify-content: space-evenly;
   flex-wrap: wrap;
   align-items: center;
-  padding-inline-start: 0;
+  padding-inline-start: -50;
   margin-block: 0;
   height: 100%;
 }
