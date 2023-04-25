@@ -59,7 +59,7 @@ nav > ul > li {
 
 nav > ul > li:hover {
   background-color: #35221E;
-  color: #FFFAF0;
+  color: white;
   cursor: pointer;
 }
 
