@@ -73,4 +73,7 @@ li > a {
 #driverapp {margin-left: 40%;
  margin-right:10%}
 
-#optbenefits
+#optbenefits {margin-top: 190px;
+ margin-left: 10%;
+ margin-right 37%;
+ display: inline-block;}
