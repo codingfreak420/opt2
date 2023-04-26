@@ -72,6 +72,8 @@ li > a {
 
 .flex-container {  
     display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .flex-child {
@@ -80,5 +82,6 @@ li > a {
 }  
 
 .flex-child:first-child {
- margin-right: 20px;}
+ margin-right: 20px;
+text-align: center;}
 
