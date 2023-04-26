@@ -80,10 +80,10 @@ li > a {
 }  
 
 .flex-child:first-child {
-    padding-left: 30%;
-    padding-right: 90%;
-} 
-.flex-child:second-child {
     padding-left: 10%;
     padding-right: 75%;
+} 
+.flex-child:second-child {
+    padding-left: 30%;
+    padding-right: 90%;
 } 
