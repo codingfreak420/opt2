@@ -70,10 +70,15 @@ li > a {
   text-decoration: none;
 }
 
-#driverapp {margin-left: 40%;
- margin-right:10%}
+.flex-container {
+    display: flex;
+}
 
-#optbenefits {margin-top: 190px;
- margin-left: 10%;
- margin-right 37%;
- display: inline-block;}
+.flex-child {
+    flex: 1;
+    border: 2px solid  #CCBAA4;
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
