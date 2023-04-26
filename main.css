@@ -79,7 +79,11 @@ li > a {
     border: 2px solid  #CCBAA4;
 }  
 
-.flex-child:first-child {
+.flex-child:second-child {
+    padding-left: 30%;
+    padding-right: 90%;
+} 
+.flex-child:second-child {
     padding-left: 10%;
-    padding-right: 65%;
+    padding-right: 75%;
 } 
