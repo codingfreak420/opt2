@@ -75,10 +75,10 @@ li > a {
 }
 
 .flex-child {
-    flex: 1;
+    
     border: 2px solid  #CCBAA4;
 }  
 
 .flex-child:first-child {
- margin-right: 1600px;
- margin-left: 20px}
+ margin-right: 20px;}
+
