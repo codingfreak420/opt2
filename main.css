@@ -34,6 +34,8 @@ h1 {
   text-align: center;
 }
 
+main {padding-top: 190;}
+
 nav {
   width: 1700%;
   max-width: 1700px;
