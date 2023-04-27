@@ -88,4 +88,4 @@ li > a {
 text-align: center;
 }
 
-.optbenefits { justify-content: space-evenly;}
+.flex-child magenta{ justify-content: space-evenly;}
