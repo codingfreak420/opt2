@@ -86,5 +86,6 @@ li > a {
 .flex-child:first-child {
  margin-right: 20px;
 text-align: center;
-justify-content: space-evenly;}
+}
 
+.optbenefits { justify-content: space-evenly;}
