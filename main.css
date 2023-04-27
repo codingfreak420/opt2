@@ -34,8 +34,7 @@ h1 {
   text-align: center;
 }
 
-.optbenefits { display: flex;
-                justify-content: space-between}
+
 
 main {padding-top: 190px;}
 
@@ -86,7 +85,9 @@ li > a {
 
 .flex-child:first-child {
  margin-right: 20px;
-text-align: center;
+
+ display: flex;
+                justify-content: space-between
 }
 
-.flex-child magenta{ justify-content: space-evenly;}
+;}
