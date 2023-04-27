@@ -34,7 +34,8 @@ h1 {
   text-align: center;
 }
 
-.optbenefits {display: block;}
+.optbenefits { display: flex;
+                justify-content: space-between}
 
 main {padding-top: 190px;}
 
