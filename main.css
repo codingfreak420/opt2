@@ -87,11 +87,9 @@ li > a {
  margin-right: 20px;
 }
 .flex-child:first-child > h3{
- margin-right: 20px;
  align: center;
 }
                .flex-child:first-child > .optbenefits {
- margin-right: 20px;
 
                 display: flex;
                 justify-content: space-between;}
